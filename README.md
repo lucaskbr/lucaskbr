@@ -1,12 +1,16 @@
 
 <h1 align="center"> ♦️ Welcome! ♦️</h1>
+<p>Hi, Lucas here!</p>
 
 <p><img width="450" alt="laser-eyes" align="right" src="https://user-images.githubusercontent.com/39783638/221322166-6d208437-2b22-4d20-b6f6-cebdc65172b0.png">
 
-<p>Hi, Lucas here!</p>
+<br>
+  
 
 > <i>Destiny. Fate. Dreams. These unstoppable ideas are held deep in the heart of man. As long as there people who seek freedom in this life, These things shall not vanish from the Earth.</i>
 > <b>Gol D. Roger</b>
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -29,8 +33,15 @@
   <img alt="Linux Mint" src="https://img.shields.io/badge/linux mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
 </p>
 
+<br>
+
+
 <h2>Social 🐙</h2>
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/lucas-klasa-13891414b/) [<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/lucas_klasa)
 
+<br>
+
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaskbr&count_private=true&card_width=300&show_icons=true&theme=synthwave)
 
